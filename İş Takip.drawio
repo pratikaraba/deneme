@@ -79,7 +79,7 @@
           <mxGeometry x="175" y="491" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AZsvfU4Qy47yrpIjcS5-26" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-406" y="927" width="1168" height="10" as="geometry" />
+          <mxGeometry x="-530" y="927" width="1410" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5AZsvfU4Qy47yrpIjcS5-27" value="&lt;h2&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px; line-height: 220%;&quot;&gt;SİPARİŞ AŞAMASI&lt;/font&gt;&lt;/b&gt;&lt;/h2&gt;" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;direction=south;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-333" y="82" width="52" height="350" as="geometry" />
@@ -99,8 +99,20 @@
         <mxCell id="JWgQweDf2uA80NxqjfRh-9" value="Onaylanan teklifler üzerinden sipariş adımları oluşturulacak" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-266" y="809" width="149" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="JWgQweDf2uA80NxqjfRh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JWgQweDf2uA80NxqjfRh-11" target="JWgQweDf2uA80NxqjfRh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JWgQweDf2uA80NxqjfRh-11" value="Oluşturulan siparişlerle ilgili firma profilindeki öngörülen sevkiyat takvimine bağlı olarak standart hatırlatıcı oluşturulacak." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="994" width="204" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="JWgQweDf2uA80NxqjfRh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JWgQweDf2uA80NxqjfRh-13" target="JWgQweDf2uA80NxqjfRh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWgQweDf2uA80NxqjfRh-13" value="Bu hatırlatıcı takvim üzerinden güncellenebilecek ya da hatırlatma yapıldıği takdirde ertelenebilecek" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="1176" width="206" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JWgQweDf2uA80NxqjfRh-15" value="Projeler firma, personel ve takvim bazlı listelenebilecek" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1331.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
