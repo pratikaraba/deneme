@@ -111,11 +111,23 @@
         <mxCell id="JWgQweDf2uA80NxqjfRh-13" value="Bu hatırlatıcı takvim üzerinden güncellenebilecek ya da hatırlatma yapıldıği takdirde ertelenebilecek" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="132" y="1176" width="206" height="70.5" as="geometry" />
         </mxCell>
+        <mxCell id="P3OtiobJrho4AVTBDznn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JWgQweDf2uA80NxqjfRh-15" target="P3OtiobJrho4AVTBDznn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JWgQweDf2uA80NxqjfRh-15" value="Projeler firma, personel ve takvim bazlı listelenebilecek" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="1331.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LzY7oRYEFkuAUDhhu2o3-1" value="Footer menü Müşteri, Tedarikçi, Personel Bana Özel olarak belirlenebilir" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LzY7oRYEFkuAUDhhu2o3-1" value="Footer menü Müşteri, Tedarikçi, Personel Bana Özel olarak belirlenebilir" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="628" y="-103" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3OtiobJrho4AVTBDznn-3" value="Sipariş verdiğin ürün tedarikçiden geldi diyelim. Beklemede modunda kalacak. Eğer müşteri erken teslimat istiyorsa sevkiyatı gerçekleştirilecek" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1575" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="P3OtiobJrho4AVTBDznn-5" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1467" width="1410" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="P3OtiobJrho4AVTBDznn-6" value="Talep&lt;br&gt;Teklif&lt;br&gt;Müşteri Bekleniyor&lt;br&gt;Sipariş Verilecek&lt;br&gt;Sipariş Verildi&lt;br&gt;Sipariş Kısmen Geldi&lt;br&gt;Sipariş Tamamlandı&lt;br&gt;Kısmen Kargolandı&lt;br&gt;Kargolandı&lt;br&gt;Kısmen Teslim Edildi&lt;br&gt;Teslim Edildi&lt;br&gt;Kısmen İade&lt;br&gt;İade&lt;br&gt;Hasarlı Ürün&lt;br&gt;Tedarikçiye Gönderildi&lt;br&gt;Tedarikçi Bekleniyor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="623" y="18" width="141" height="236" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
