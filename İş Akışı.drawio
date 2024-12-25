@@ -123,8 +123,8 @@
         <mxCell id="P3OtiobJrho4AVTBDznn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3OtiobJrho4AVTBDznn-3" target="P3OtiobJrho4AVTBDznn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P3OtiobJrho4AVTBDznn-3" value="Sipariş verdiğin ürün tedarikçiden geldi diyelim. Beklemede modunda kalacak. Eğer müşteri erken teslimat istiyorsa sevkiyatı gerçekleştirilecek" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1570" width="240" height="87" as="geometry" />
+        <mxCell id="P3OtiobJrho4AVTBDznn-3" value="Sipariş verdiğin ürün tedarikçiden geldi diyelim. Beklemede modunda kalacak. Eğer müşteri erken teslimat istiyorsa sevkiyatı gerçekleştirilecek.&lt;br&gt;Bekleme modundayken eğer sevkiyatçı tanımlandıysa sevkiyatçı tetiklenecek, tanımlanmadıysa ilgili kişi tetiklenecek." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1570" width="240" height="117" as="geometry" />
         </mxCell>
         <mxCell id="P3OtiobJrho4AVTBDznn-5" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-530" y="1467" width="1410" height="10" as="geometry" />
@@ -135,8 +135,20 @@
         <mxCell id="P3OtiobJrho4AVTBDznn-7" value="&lt;div&gt;BAŞLANGIÇ&lt;/div&gt;&lt;div&gt;PLANLAMA&lt;/div&gt;&lt;div&gt;YÜRÜTME&lt;/div&gt;&lt;div&gt;İZLEME KONTROL&lt;/div&gt;&lt;div&gt;KAPANIŞ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="638" y="-284" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P3OtiobJrho4AVTBDznn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3OtiobJrho4AVTBDznn-8" target="P3OtiobJrho4AVTBDznn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P3OtiobJrho4AVTBDznn-8" value="Sevkiyat sürecinde kargomu? kendi teslimatımı olduğu seçilebilecek. Kargo ise ön talep sistem üzerinden oluşturulacak." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="132" y="1748" width="206" height="90.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P3OtiobJrho4AVTBDznn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P3OtiobJrho4AVTBDznn-10" target="P3OtiobJrho4AVTBDznn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3OtiobJrho4AVTBDznn-10" value="Kargo ise teslim edildiğinde durum değişecek, kendi sevkiyatı ise sevkiyatçı teslim edildi seçecek (teslim ettiği kişi bilgisi alacak) Eğer seçmezse süreç içerisinde hatırlatma olacak." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124.5" y="1939" width="221" height="100.25" as="geometry" />
+        </mxCell>
+        <mxCell id="P3OtiobJrho4AVTBDznn-12" value="Proje sonlanana kadar süreç devam edecek." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2139.375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
