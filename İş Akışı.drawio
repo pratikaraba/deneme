@@ -129,8 +129,8 @@
         <mxCell id="P3OtiobJrho4AVTBDznn-5" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-530" y="1467" width="1410" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="P3OtiobJrho4AVTBDznn-6" value="Talep&lt;br&gt;Teklif&lt;br&gt;Müşteri Bekleniyor&lt;br&gt;Sipariş Verilecek&lt;br&gt;Sipariş Verildi&lt;br&gt;Sipariş Kısmen Geldi&lt;br&gt;Sipariş Tamamlandı&lt;br&gt;Kısmen Kargolandı&lt;br&gt;Kargolandı&lt;br&gt;Kısmen Teslim Edildi&lt;br&gt;Teslim Edildi&lt;br&gt;Kısmen İade&lt;br&gt;İade&lt;br&gt;Hasarlı Ürün&lt;br&gt;Tedarikçiye Gönderildi&lt;br&gt;Tedarikçi Bekleniyor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="623" y="18" width="141" height="236" as="geometry" />
+        <mxCell id="P3OtiobJrho4AVTBDznn-6" value="Talep&lt;br&gt;Teklif&lt;br&gt;Müşteri Bekleniyor&lt;br&gt;Sipariş Verilecek&lt;br&gt;Sipariş Verildi&lt;br&gt;Sipariş Kısmen Geldi&lt;br&gt;Sipariş Tamamlandı&lt;br&gt;Kısmen Kargolandı&lt;br&gt;Kargolandı&lt;br&gt;Kısmen Teslim Edildi&lt;br&gt;Teslim Edildi&lt;br&gt;Kısmen İade&lt;br&gt;İade&lt;br&gt;Hasarlı Ürün&lt;br&gt;Tedarikçiye Gönderildi&lt;br&gt;Tedarikçi Bekleniyor&lt;div&gt;Tamamlandı&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="623" y="18" width="141" height="270" as="geometry" />
         </mxCell>
         <mxCell id="P3OtiobJrho4AVTBDznn-7" value="&lt;div&gt;BAŞLANGIÇ&lt;/div&gt;&lt;div&gt;PLANLAMA&lt;/div&gt;&lt;div&gt;YÜRÜTME&lt;/div&gt;&lt;div&gt;İZLEME KONTROL&lt;/div&gt;&lt;div&gt;KAPANIŞ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="638" y="-284" width="60" height="30" as="geometry" />
